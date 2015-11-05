@@ -1,4 +1,4 @@
-# Football
+# Fantasy Football Projections
 
 Orginal source from Fantasyfootballanalytics.net github
 
