@@ -1,0 +1,50 @@
+"name","cbs_team","cbs_recpts","cbs_yd","cbs_td","cbs_fl","cbs_fpts","espn_team","espn_recpts","espn_yd","espn_td","espn_fpts","fft_team","fft_recpts","fft_yd","fft_td","fft_fpts","ffs_team","ffs_recpts","ffs_yd","ffs_td","ffs_fpts","fp_team","fp_recpts","fp_yd","fp_td","fp_fl","fp_fpts","numfire_team","numfire_recpts","numfire_yd","numfire_td","numfire_fpts"
+"Anthony Fasano","TEN",1.1,14.3,0.1,0,2.03," TEN",1.5,17.4,0.2,2,NA,NA,NA,NA,NA,"TEN",1.45,21,0.2,3,"TEN",1.5,16.5,0.1,"0.0",2.4,"TEN",1.65,18.47,0.09,2.36
+"Antonio Gates","SD",4.2,50.4,0.5,0.1,7.84," SD ",3.7,45.2,0.4,6.4,NA,NA,NA,NA,NA,"SD",4.54,51,0.51,16," SD",4,45.9,0.5,"0.1",7.7,"SD",3.46,36.85,0.39,6.02
+"Benjamin Watson","NO",2.4,25,0.1,0.2,2.7," NO ",2.3,25.6,0.1,2.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," NO",2.3,24.4,0.1,"0.1",2.7,NA,NA,NA,NA,NA
+"Brandon Myers","TB",1.9,15.9,0.1,0,2.19," TB ",2.2,25,0.2,2.9,NA,NA,NA,NA,NA,"TB",2.07,21,0.13,4," TB",1.8,18.5,0.1,"0.0",2.4,NA,NA,NA,NA,NA
+"Brandon Pettigrew","DET",1.6,14.5,0.1,0,2.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"DET",1.5,16,0.12,4,"DET",2.1,20.4,0.1,"0.0",2.7,"DET",3.48,28.71,0.21,3.89
+"Brent Celek","PHI",1.4,18.7,0.3,0.1,3.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"PHI",1.63,19,0.22,4,"PHI",1.2,14.2,0.1,"0.1",2,"PHI",1.33,16.87,0.14,2.54
+"C.J. Fiedorowicz","HOU",1.9,20.2,0.3,0.2,3.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Charles Clay","BUF",4.1,50,0.3,0,6.8," BUF",4.4,48.2,0.5,6.7,NA,NA,NA,NA,NA,"BUF",4.37,52,0.39,9,"BUF",4.6,51.7,0.5,"0.0",8.2,"BUF",4.37,48.51,0.32,6.58
+"Clay Harbor","JAC",2.6,28,0.3,0.1,4.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"JAC",1.67,17,0.13,4,"JAC",1.4,14.5,0.1,"0.1",2,NA,NA,NA,NA,NA
+"Coby Fleener","IND",3,36.2,0.2,0,4.82," IND",2.2,26.2,0.2,3.1,NA,NA,NA,NA,NA,"IND",3.13,38,0.31,7,"IND",2.8,32.4,0.2,"0.0",4.3,"IND",2.94,32.35,0.27,4.85
+"Crockett Gillmore","BAL",2.4,41.1,0.7,0,8.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"alf",1.2,20.5,0.4,"0.0",4.1,NA,NA,NA,NA,NA
+"Darren Fells","ARI",1.8,25.8,0.2,0,3.78," ARI",1.5,17.1,0.2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"ARI",1.9,20,0.1,"0.0",2.9,"ARI",1.96,18.09,0.23,3.16
+"Delanie Walker","TEN",2.5,28.5,0.2,0,4.05," TEN",4.3,48.6,0.3,5.7,NA,NA,NA,NA,NA,"TEN",4.23,51,0.37,9,"TEN",3.8,43.8,0.4,"0.0",6.8,"TEN",3.28,37.28,0.19,4.85
+"Derek Carrier","WAS",2.1,24.2,0.1,0,3.02," WSH",3.2,36.3,0.2,4.4,NA,NA,NA,NA,NA,"WAS",3.82,43,0.16,8,"WAS",2.8,29.5,0.1,"0.0",3.8,"WSH",3.23,26.76,0.2,3.86
+"Dwayne Allen","IND",2.2,22.1,0.4,0,4.61," IND",2.4,26.4,0.2,3.1,NA,NA,NA,NA,NA,"IND",2.63,28,0.46,6,"IND",2.2,23.9,0.2,"0.0",3.5,"IND",2.67,25.95,0.24,4.05
+"Garrett Celek","SF",2.6,32,0.1,0,3.8," SF ",3.1,35.4,0.1,3.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," SF",2.8,30.5,0.1,"0.0",3.6,"SF",2.05,22.9,0.07,2.69
+"Garrett Graham","HOU",1.9,21.3,0.4,0,4.53," HOU",2.2,24.4,0.2,3.1,NA,NA,NA,NA,NA,"HOU",1.87,19,0.17,4,"HOU",1.8,19.5,0.2,"0.0",3,"HOU",2.54,24.96,0.18,3.62
+"Gary Barnidge","CLE",2.8,41.2,0.3,0,5.92," CLE",2.4,30,0.2,4.1,NA,NA,NA,NA,NA,"CLE",2.91,43,0.27,7,"CLE",3.3,38.7,0.2,"0.0",4.9,"CLE",2.71,34.84,0.17,4.47
+"Gavin Escobar","DAL",1.6,18.5,0.2,0.1,2.85," DAL",1.3,15.6,0.2,2.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"DAL",1.4,15.1,0.1,"0.1",2.1,NA,NA,NA,NA,NA
+"Heath Miller","PIT",3.3,31.4,0.1,0.1,3.54," PIT",2.5,27.2,0.3,3.5,NA,NA,NA,NA,NA,"PIT",3.72,39,0.15,8,"PIT",3.1,32.7,0.2,"0.1",4.2,"PIT",3.91,44.88,0.23,5.82
+"Jacob Tamme","ATL",2.3,25.1,0.2,0.1,3.51," ATL",2.3,25.3,0.2,3,NA,NA,NA,NA,NA,"ATL",1.49,16,0.03,3,"ATL",2.3,25.5,0.2,"0.1",3.8,"ATL",2.67,28.48,0.33,4.86
+"James O'Shaughnessy","KC",1.6,17,0.2,0,2.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"KC",1.11,13.89,0.13,2.18
+"Jared Cook","STL",3.2,37.8,0.1,0,4.38," STL",3.9,44.7,0.3,5.6,NA,NA,NA,NA,NA,"STL",2.93,35,0.12,7,"STL",3.7,40.4,0.2,"0.0",5,"STL",3.43,36.42,0.09,4.11
+"Jason Witten","DAL",4,46.6,0.3,0,6.46," DAL",5.1,60.3,0.4,8.2,NA,NA,NA,NA,NA,"DAL",4.76,52,0.35,10,"DAL",4.8,55.4,0.3,"0.0",7.2,"DAL",4.98,58.86,0.42,8.38
+"Jermaine Gresham","ARI",1.8,15.9,0.1,0.1,1.99," ARI",1.7,18.1,0.2,2,NA,NA,NA,NA,NA,"ARI",2.1,19,0.12,4,"ARI",1.5,14.8,0.1,"0.1",2.1,NA,NA,NA,NA,NA
+"Jim Dray","CLE",1.7,19.6,0.1,0,2.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Jimmy Graham","SEA",3.4,48.1,0.5,0,7.81," SEA",4.1,48.9,0.3,5.7,NA,NA,NA,NA,NA,"SEA",4.19,44,0.49,8,"SEA",4.2,50.4,0.4,"0.0",7.2,"SEA",4.27,48.05,0.48,7.6
+"Josh Hill","NO",2.4,25,0.2,0,3.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA," NO",1.4,15.3,0.1,"0.0",2.1,NA,NA,NA,NA,NA
+"Julius Thomas","JAC",3.7,38.5,0.4,0,6.25," JAX",3.7,41.6,0.3,5.7,NA,NA,NA,NA,NA,"JAC",1.71,18,0.24,4,"JAC",3.2,35.7,0.3,"0.0",5.4,"JAC",2.46,30.64,0.32,4.98
+"Ladarius Green","SD",2.8,37.6,0.3,0,5.56," SD ",2.1,26.2,0.2,3.2,NA,NA,NA,NA,NA,"SD",2.13,29,0.27,5," SD",2.5,30.2,0.2,"0.0",4,"SD",1.92,21.98,0.16,3.06
+"Lance Kendricks","STL",1.8,17.9,0.4,0,4.19," STL",1.9,21,0.2,2.9,NA,NA,NA,NA,NA,"STL",1.37,15,0.24,3,"STL",1.8,18.6,0.2,"0.0",3.2,"STL",1.31,14.46,0.09,2.01
+"Larry Donnell","NYG",3.5,34.5,0.3,0.1,5.05," NYG",3.6,41.7,0.4,6.4,NA,NA,NA,NA,NA,"NYG",3.71,35,0.25,8,"NYG",3.4,35.7,0.3,"0.1",5,"NYG",3.27,32.17,0.26,4.63
+"Luke Willson","SEA",1.7,21,0.1,0,2.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"SEA",1.16,15,0.06,3,"SEA",1.4,16.2,0.1,"0.0",2.1,"SEA",1.37,16.93,0.12,2.42
+"Marcedes Lewis","JAC",1.5,16.8,0.2,0.1,2.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"JAC",1.5,15.9,0.1,"0.1",2.2,"JAC",1.85,19.91,0.19,3.11
+"Martellus Bennett","CHI",5.1,48.8,0.4,0,7.28," CHI",5.5,59.5,0.4,7.3,NA,NA,NA,NA,NA,"CHI",4.94,49,0.32,10,"CHI",5.6,58.8,0.5,"0.0",9,"CHI",5.93,61.63,0.4,8.41
+"Maxx Williams","BAL",2.2,24.2,0.2,0,3.62," BAL",3,34.1,0.3,4.7,NA,NA,NA,NA,NA,"BAL",2.36,29,0.19,5,"BAL",2.5,27,0.2,"0.0",3.7,"BAL",2.7,27.74,0.14,3.61
+"Mychal Rivera","OAK",2.1,15.8,0.1,0,2.18," OAK",1.8,20.7,0.1,2.8,NA,NA,NA,NA,NA,"OAK",2.78,24,0.17,5,"OAK",2,20,0.1,"0.0",2.5,"OAK",2.68,24.65,0.15,3.35
+"Nick Boyle","BAL",2.4,26.6,0.2,0,3.86," BAL",1.9,22.1,0.2,3.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"BAL",1.7,17.8,0.2,"0.0",2.7,NA,NA,NA,NA,NA
+"Owen Daniels","DEN",2.4,21,0.5,0,5.1," DEN",3.6,40.7,0.3,6.1,NA,NA,NA,NA,NA,"DEN",3.19,28,0.47,6,"DEN",3.2,33.1,0.5,"0.0",6.1,"DEN",3.7,37.76,0.24,5.19
+"Richard Rodgers","GB",2.8,27.3,0.3,0,4.53," GB ",2.7,30.6,0.4,5.1,NA,NA,NA,NA,NA,"GB",2.42,24,0.32,5," GB",2.9,30.6,0.2,"0.0",4.4,"GB",2.89,32.03,0.13,3.91
+"Rob Gronkowski","NE",5.4,83.5,0.7,0,12.55," NE ",5.6,69.7,0.7,10.2,NA,NA,NA,NA,NA,"NEP",4.92,75,0.84,19," NE",5.9,77.2,0.7,"0.0",12.2,"NE",5.73,75.83,0.62,11.27
+"Rob Housler","CLE",1.9,25.5,0.1,0,3.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Scott Chandler","NE",2,20,0.2,0,3.2," NE ",2.1,24.2,0.2,3.5,NA,NA,NA,NA,NA,"NEP",1.77,16,0.19,4," NE",1.6,18.7,0.2,"0.0",2.8,"NE",1.33,16.38,0.15,2.53
+"Timothy Wright","DET",2.4,29.5,0.3,0,4.75," DET",2.1,24.4,0.2,3.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Travis Kelce","KC",4.6,62.8,0.9,0.2,11.28," KC ",4.9,53.2,0.4,7.3,NA,NA,NA,NA,NA,"KC",3.56,46,0.25,9," KC",5.1,58.5,0.6,"0.1",9.3,"KC",4.87,57.73,0.38,8.04
+"Tyler Eifert","CIN",4.2,50.1,0.5,0,8.01," CIN",4,46.9,0.3,5.8,NA,NA,NA,NA,NA,"CIN",3.46,40,0.51,13,"CIN",4.6,49.4,0.5,"0.0",7.9,"CIN",4.79,49.19,0.29,6.64
+"Vance McDonald","SF",1.4,14.9,0.1,0,2.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"SFO",2.05,25,0.09,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"Virgil Green","DEN",2.6,24.8,0.2,0,3.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,"DEN",1.3,13.6,0.1,"0.0",2.1,"DEN",1.3,16.64,0.22,3
+"Zach Ertz","PHI",2,27.8,0.2,0,3.98," PHI",3.1,38.3,0.3,4.8,NA,NA,NA,NA,NA,"PHI",3.23,38,0.26,7,"PHI",2.7,33.9,0.2,"0.0",4.5,"PHI",2.65,30.4,0.32,4.95

@@ -1,0 +1,61 @@
+"name","pos","sourceName","team","name_ffn","team_ffn","positionRank_ffn","overallRank_ffn","points_ffn","passAtt_ffn","passYds_ffn","passTds_ffn","passInt_ffn","rushAtt_ffn","rushYds_ffn","rushTds_ffn","rec_ffn","recYds_ffn","recTds_ffn","returnTds_ffn","fumbles_ffn","dstSack_ffn","dstInt_ffn","dstFumlRec_ffn","dstBlk_ffn","fg_ffn","xp_ffn","dstFumlRec_ffn.1","dstBlk_ffn.1","fg_ffn.1","xp_ffn.1"
+"ANDREWLUCK","QB","ffn","IND","Andrew Luck","IND",1,1,334,621,4753,35,15,56,255,3,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"AARONRODGERS","QB","ffn","GB","Aaron Rodgers","GB",2,2,317,548,4483,32,9,49,234,2,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+"RUSSELLWILSON","QB","ffn","SEA","Russell Wilson","SEA",3,3,300,473,3702,26,11,104,582,3,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0
+"PEYTONMANNING","QB","ffn","DEN","Peyton Manning","DEN",4,4,294,595,4655,35,13,27,14,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+"DREWBREES","QB","ffn","NO","Drew Brees","NO",5,5,287,608,4635,31,13,28,59,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+"BENROETHLISBERGER","QB","ffn","PIT","Ben Roethlisberger","PIT",6,6,278,598,4629,30,13,28,84,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"MATTRYAN","QB","ffn","ATL","Matt Ryan","ATL",7,7,274,607,4610,29,14,27,97,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+"TONYROMO","QB","ffn","DAL","Tony Romo","DAL",8,8,272,529,4188,32,11,27,60,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0
+"CAMNEWTON","QB","ffn","CAR","Cam Newton","CAR",9,9,269,482,3433,21,14,106,555,5,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"RYANTANNEHILL","QB","ffn","MIA","Ryan Tannehill","MIA",10,10,268,581,4102,27,14,49,281,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+"EDDIELACY","RB","ffn","GB","Eddie Lacy","GB",1,11,228,0,0,0,0,279,1251,10,44,353,2,0,2,0,0,0,0,0,0,0,0,0,0
+"ADRIANPETERSON","RB","ffn","MIN","Adrian Peterson","MIN",2,12,227,0,0,0,0,285,1319,10,43,326,1,0,2,0,0,0,0,0,0,0,0,0,0
+"MARSHAWNLYNCH","RB","ffn","SEA","Marshawn Lynch","SEA",3,13,222,0,0,0,0,272,1249,10,35,292,2,0,2,0,0,0,0,0,0,0,0,0,0
+"JAMAALCHARLES","RB","ffn","KC","Jamaal Charles","KC",4,14,221,0,0,0,0,231,1115,9,48,376,4,0,3,0,0,0,0,0,0,0,0,0,0
+"CJANDERSON","RB","ffn","DEN","C.J. Anderson","DEN",5,15,220,0,0,0,0,257,1150,10,42,345,2,0,1,0,0,0,0,0,0,0,0,0,0
+"LEVEONBELL","RB","ffn","PIT","Le'Veon Bell","PIT",6,16,218,0,0,0,0,236,1065,8,60,533,2,0,1,0,0,0,0,0,0,0,0,0,0
+"DEMARYIUSTHOMAS","WR","ffn","DEN","Demaryius Thomas","DEN",1,17,210,0,0,0,0,0,0,0,102,1397,12,0,1,0,0,0,0,0,0,0,0,0,0
+"ANTONIOBROWN","WR","ffn","PIT","Antonio Brown","PIT",2,18,204,0,0,0,0,4,23,0,112,1498,9,0,1,0,0,0,0,0,0,0,0,0,0
+"DEZBRYANT","WR","ffn","DAL","Dez Bryant","DAL",2,18,204,0,0,0,0,0,0,0,93,1337,12,0,1,0,0,0,0,0,0,0,0,0,0
+"JEREMYHILL","RB","ffn","CIN","Jeremy Hill","CIN",7,20,203,0,0,0,0,263,1213,10,27,212,1,0,3,0,0,0,0,0,0,0,0,0,0
+"MATTFORTE","RB","ffn","CHI","Matt Forte","CHI",8,21,202,0,0,0,0,250,1033,7,62,489,2,0,2,0,0,0,0,0,0,0,0,0,0
+"DEMARCOMURRAY","RB","ffn","PHI","DeMarco Murray","PHI",9,22,198,0,0,0,0,255,1197,10,32,244,0,0,3,0,0,0,0,0,0,0,0,0,0
+"JULIOJONES","WR","ffn","ATL","Julio Jones","ATL",4,23,195,0,0,0,0,1,4,0,102,1443,9,0,2,0,0,0,0,0,0,0,0,0,0
+"ODELLBECKHAM","WR","ffn","NYG","Odell Beckham Jr.","NYG",5,24,192,0,0,0,0,5,33,0,95,1305,10,0,1,0,0,0,0,0,0,0,0,0,0
+"CALVINJOHNSON","WR","ffn","DET","Calvin Johnson","DET",6,25,188,0,0,0,0,0,0,0,88,1295,10,0,1,0,0,0,0,0,0,0,0,0,0
+"RANDALLCOBB","WR","ffn","GB","Randall Cobb","GB",7,26,187,0,0,0,0,10,69,0,94,1239,10,0,2,0,0,0,0,0,0,0,0,0,0
+"LESEANMCCOY","RB","ffn","BUF","LeSean McCoy","BUF",10,27,186,0,0,0,0,276,1192,7,32,226,1,0,2,0,0,0,0,0,0,0,0,0,0
+"AJGREEN","WR","ffn","CIN","A.J. Green","CIN",8,28,175,0,0,0,0,1,8,0,87,1243,9,0,2,0,0,0,0,0,0,0,0,0,0
+"ALSHONJEFFERY","WR","ffn","CHI","Alshon Jeffery","CHI",9,29,169,0,0,0,0,5,33,0,83,1141,9,0,1,0,0,0,0,0,0,0,0,0,0
+"MIKEEVANS","WR","ffn","TB","Mike Evans","TB",10,30,167,0,0,0,0,0,0,0,77,1154,9,0,1,0,0,0,0,0,0,0,0,0,0
+"ROBGRONKOWSKI","TE","ffn","NE","Rob Gronkowski","NE",1,30,167,0,0,0,0,0,0,0,82,1068,10,0,0,0,0,0,0,0,0,0,0,0,0
+"STEPHENGOSTKOWSKI","K","ffn","NE","Stephen Gostkowski","NE",1,32,138,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,48,0,0,30,48
+"JIMMYGRAHAM","TE","ffn","SEA","Jimmy Graham","SEA",2,33,136,0,0,0,0,0,0,0,69,838,9,0,1,0,0,0,0,0,0,0,0,0,0
+"CODYPARKEY","K","ffn","PHI","Cody Parkey","PHI",2,34,130,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,46,0,0,28,46
+"JUSTINTUCKER","K","ffn","BAL","Justin Tucker","BAL",3,35,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,39,0,0,30,39
+"MASONCROSBY","K","ffn","GB","Mason Crosby","GB",3,35,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,48,0,0,27,48
+"STEVENHAUSCHKA","K","ffn","SEA","Steven Hauschka","SEA",5,37,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,44,0,0,28,44
+"ADAMVINATIERI","K","ffn","IND","Adam Vinatieri","IND",5,37,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,47,0,0,27,47
+"DANBAILEY","K","ffn","DAL","Dan Bailey","DAL",7,39,127,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,46,0,0,27,46
+"SEATTLESEAHAWKS","DST","ffn","0","Seattle Seahawks","0",1,39,127,0,0,0,0,0,0,0,0,0,0,0,0,43,18,12,0,0,0,12,0,0,0
+"BUFFALOBILLS","DST","ffn","0","Buffalo Bills","0",2,41,126,0,0,0,0,0,0,0,0,0,0,0,0,50,17,12,0,0,0,12,0,0,0
+"GARRETTHARTLEY","K","ffn","PIT","Garrett Hartley","PIT",8,42,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,41,0,0,28,41
+"MATTBRYANT","K","ffn","ATL","Matt Bryant","ATL",8,42,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,41,0,0,28,41
+"STLOUISRAMS","DST","ffn","0","St. Louis Rams","0",3,44,123,0,0,0,0,0,0,0,0,0,0,0,0,47,14,12,0,0,0,12,0,0,0
+"CHANDLERCATANZARO","K","ffn","ARI","Chandler Catanzaro","ARI",10,45,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,37,0,0,28,37
+"GREGOLSEN","TE","ffn","CAR","Greg Olsen","CAR",3,46,118,0,0,0,0,0,0,0,75,896,5,0,1,0,0,0,0,0,0,0,0,0,0
+"TRAVISKELCE","TE","ffn","KC","Travis Kelce","KC",4,47,117,0,0,0,0,0,0,0,73,849,6,0,2,0,0,0,0,0,0,0,0,0,0
+"HOUSTONTEXANS","DST","ffn","0","Houston Texans","0",4,48,115,0,0,0,0,0,0,0,0,0,0,0,0,40,17,11,0,0,0,11,0,0,0
+"DENVERBRONCOS","DST","ffn","0","Denver Broncos","0",5,49,114,0,0,0,0,0,0,0,0,0,0,0,0,45,17,11,0,0,0,11,0,0,0
+"GREENBAYPACKERS","DST","ffn","0","Green Bay Packers","0",5,49,114,0,0,0,0,0,0,0,0,0,0,0,0,41,17,9,0,0,0,9,0,0,0
+"MARTELLUSBENNETT","TE","ffn","CHI","Martellus Bennett","CHI",5,51,111,0,0,0,0,0,0,0,77,812,5,0,0,0,0,0,0,0,0,0,0,0,0
+"NEWYORKJETS","DST","ffn","0","New York Jets","0",7,51,111,0,0,0,0,0,0,0,0,0,0,0,0,42,17,11,0,0,0,11,0,0,0
+"JASONWITTEN","TE","ffn","DAL","Jason Witten","DAL",6,53,110,0,0,0,0,0,0,0,64,736,6,0,0,0,0,0,0,0,0,0,0,0,0
+"PHILADELPHIAEAGLES","DST","ffn","0","Philadelphia Eagles","0",8,53,110,0,0,0,0,0,0,0,0,0,0,0,0,42,14,10,0,0,0,10,0,0,0
+"MINNESOTAVIKINGS","DST","ffn","0","Minnesota Vikings","0",8,53,110,0,0,0,0,0,0,0,0,0,0,0,0,40,15,10,0,0,0,10,0,0,0
+"ARIZONACARDINALS","DST","ffn","0","Arizona Cardinals","0",8,53,110,0,0,0,0,0,0,0,0,0,0,0,0,39,18,11,0,0,0,11,0,0,0
+"ZACHERTZ","TE","ffn","PHI","Zach Ertz","PHI",7,57,95,0,0,0,0,0,0,0,54,674,5,0,1,0,0,0,0,0,0,0,0,0,0
+"DWAYNEALLEN","TE","ffn","IND","Dwayne Allen","IND",8,58,92,0,0,0,0,0,0,0,42,495,7,0,0,0,0,0,0,0,0,0,0,0,0
+"JORDANCAMERON","TE","ffn","MIA","Jordan Cameron","MIA",8,58,92,0,0,0,0,0,0,0,51,618,5,0,0,0,0,0,0,0,0,0,0,0,0
+"JULIUSTHOMAS","TE","ffn","JAC","Julius Thomas","JAC",8,58,92,0,0,0,0,0,0,0,56,636,5,0,1,0,0,0,0,0,0,0,0,0,0
